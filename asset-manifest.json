@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DifferText-React/static/css/main.e6c13ad2.css",
+    "main.js": "/DifferText-React/static/js/main.9e9e99a7.js",
+    "static/js/453.30614a06.chunk.js": "/DifferText-React/static/js/453.30614a06.chunk.js",
+    "index.html": "/DifferText-React/index.html",
+    "main.e6c13ad2.css.map": "/DifferText-React/static/css/main.e6c13ad2.css.map",
+    "main.9e9e99a7.js.map": "/DifferText-React/static/js/main.9e9e99a7.js.map",
+    "453.30614a06.chunk.js.map": "/DifferText-React/static/js/453.30614a06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9e9e99a7.js"
+  ]
+}
